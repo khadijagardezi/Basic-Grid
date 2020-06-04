@@ -1,2 +1,2 @@
 # Basic-Grid
-basic layout with CSS Grid
+ https://khadijagardezi.github.io/Basic-Grid
